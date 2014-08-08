@@ -1,0 +1,356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sql",
+				"sqlite"
+			],
+			[
+				"com",
+				"compile"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"cpp",
+				"cppsession"
+			],
+			[
+				"ne",
+				"newObject"
+			],
+			[
+				"node",
+				"nodeSubType"
+			],
+			[
+				"va",
+				"variable"
+			],
+			[
+				"KI",
+				"KI_RBS1134_W1G2"
+			],
+			[
+				"KI_RBS",
+				"KI_RBS1164_W1L2"
+			],
+			[
+				"equip",
+				"equipmentType"
+			],
+			[
+				"equ",
+				"equipmentType"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"blo",
+				"blocks"
+			],
+			[
+				"tag",
+				"tag_pattern"
+			],
+			[
+				"for",
+				"foreach	foreach..."
+			],
+			[
+				"obj",
+				"objname"
+			],
+			[
+				"tss",
+				"tassBlock"
+			],
+			[
+				"na",
+				"namespace"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "grails-app/conf/BootStrap.groovy",
+			"settings":
+			{
+				"buffer_size": 977,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "grails-app/conf/DataSource.groovy",
+			"settings":
+			{
+				"buffer_size": 2179,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "grails-app/views/suiteResult/index.gsp",
+			"settings":
+			{
+				"buffer_size": 2419,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Auto indent"
+			]
+		],
+		"width": 664.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ewenlya/Desktop/edc-machine/grails-app/controllers/edc/machine/SuiteResultController.groovy",
+		"/C/Users/ewenlya/Desktop/edc-machine/grails-app/domain/edc/machine/TestResult.groovy",
+		"/C/Users/ewenlya/Desktop/edc-machine/grails-app/conf/DataSource.groovy",
+		"/C/Users/ewenlya/Desktop/edc-machine/src/java/SQLiteDialect.java",
+		"/C/Users/ewenlya/Desktop/edc-machine/grails-app/conf/BuildConfig.groovy",
+		"/C/Users/ewenlya/Desktop/edc-machine/grails-app/conf/BootStrap.groovy",
+		"/C/Users/ewenlya/Desktop/edc-machine/grails-app/domain/edc/machine/SuiteResult.groovy",
+		"/C/Users/ewenlya/Desktop/edc-machine/grails-app/domain/edc/machine/Node.groovy",
+		"/C/Users/ewenlya/Desktop/edc-machine/grails-app/domain/edc/machine/Mobile.groovy",
+		"/C/Users/ewenlya/Desktop/edc-machine/grails-app/domain/edc/machine/Stp.groovy",
+		"/C/Users/ewenlya/Desktop/scheduler/grails-app/conf/DataSource.groovy",
+		"/C/Users/ewenlya/Desktop/scheduler/grails-app/conf/BuildConfig.groovy",
+		"/C/Users/ewenlya/Desktop/scheduler/src/java/SQLiteDialect.java",
+		"/C/Users/ewenlya/Desktop/scheduler/grails-app/domain/scheduler/SuiteResult.groovy",
+		"/C/Users/ewenlya/Desktop/scheduler/scripts/Dbloader.groovy",
+		"/C/Users/ewenlya/Desktop/tclxml/KI_RBS1125_SM_L6.xml",
+		"/C/Users/ewenlya/Desktop/tclxml/KI_RBS1125_SM_L6"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tgNumber",
+			"controller",
+			"BSC",
+			"Bsc",
+			"testConfiguration",
+			"TestConfiguration",
+			"testConfiguration",
+			"pattern",
+			"set pattern \"<$tag.*?>(.*?)</$tag>\"",
+			"range",
+			"stpxml"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "grails-app/conf/BootStrap.groovy",
+					"settings":
+					{
+						"buffer_size": 977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								935,
+								935
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Groovy/Groovy.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "grails-app/conf/DataSource.groovy",
+					"settings":
+					{
+						"buffer_size": 2179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								590,
+								590
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Groovy/Groovy.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "grails-app/views/suiteResult/index.gsp",
+					"settings":
+					{
+						"buffer_size": 2419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2244,
+								2244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bt",
+				"grails-app/conf/BootStrap.groovy"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true
+}
